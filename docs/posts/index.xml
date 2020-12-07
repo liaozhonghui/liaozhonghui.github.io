@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>文章列表 on Hugo Hermit</title>
-		<link>https://example.com/posts/</link>
+		<link>https://liaozhonghui.github.io/posts/</link>
 		<description>Recent content in 文章列表 on Hugo Hermit</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Mon, 07 Dec 2020 19:45:04 +0800</lastBuildDate>
-		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://liaozhonghui.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>My First Post</title>
-			<link>https://example.com/posts/my-first-post/</link>
+			<link>https://liaozhonghui.github.io/posts/my-first-post/</link>
 			<pubDate>Mon, 07 Dec 2020 19:45:04 +0800</pubDate>
 			
-			<guid>https://example.com/posts/my-first-post/</guid>
+			<guid>https://liaozhonghui.github.io/posts/my-first-post/</guid>
 			<description>这是第一篇文章</description>
 			<content type="html"><![CDATA[<p>这是第一篇文章</p>
 ]]></content>
@@ -22,10 +22,10 @@
 		
 		<item>
 			<title>关于</title>
-			<link>https://example.com/posts/about/</link>
+			<link>https://liaozhonghui.github.io/posts/about/</link>
 			<pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://example.com/posts/about/</guid>
+			<guid>https://liaozhonghui.github.io/posts/about/</guid>
 			<description>这是关于页面</description>
 			<content type="html"><![CDATA[<p>这是关于页面</p>
 ]]></content>
