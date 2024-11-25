@@ -108,6 +108,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
+  active: giscus
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
@@ -124,8 +125,8 @@ comments:
     category: comments
     category_id: DIC_kwDONUTZQ84CklCG
     mapping: pathname
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
+    strict: 0 # optional, default to '0'
+    input_position: bottom # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
